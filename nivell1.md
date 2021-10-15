@@ -9,16 +9,18 @@ El **Java** és un llenguatge de programació dissenyat el 1990 per [James Gosli
 * Senzill
 * Orientat a objectes
 * Robust
-* * Fiable
+  * Fiable
 
 ### Tipus de Dades
 
 * Boolean
 * Caracter
 * Numerics enters
-* * Byte
-* * Short
-* * Int
+  * Byte
+  * Short
+  * Int
 * Numerics reals
-* * fload
-* * double
+  * fload
+  * double
+
+```#### Altres Característiques```
